@@ -24,7 +24,7 @@ repository               : "nanxifu/academic-website-test"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Nanxi Fu_Outdoor.png"
   name             : "Nanxi Fu (傅南希)"
   bio              : "PhD Candidate in Economics"
   location         : "Toronto, Canada"
