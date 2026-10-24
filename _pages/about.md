@@ -18,10 +18,10 @@ Industrial Organization, Urban Economics, Consumer Demand, Retail Competition, a
 
 **Job Market Paper**
 
-*Assortment Policy: How Far Can It Move Consumption?*
+*Assortment Policy: How Far Can It Move Consumption?* (Job Market Paper, Draft is Clearing with Data Provider)
 
-*Would Consumers Do Grocery Shopping Differently with Better Vehicle Access?*
+*Would Consumers Do Grocery Shopping Differently with Better Vehicle Access?* (Draft Available Upon Request)
 
 ## Teaching
 
-I served as an instructor for ECO220: Introduction to Data Analysis at the University of Toronto in Summer 2025. I also serve as a teaching assistant for economics courses at various levels, including principles, intermediate-level micro, macro and metrics, and upper-year industrial organization course.
+I served as an instructor for ECO220: Introduction to Data Analysis at the University of Toronto in Summer 2025. I have also been serving as a teaching assistant for economics courses at various levels, including principles, intermediate-level micro, macro and metrics, and upper-year industrial organization course.
