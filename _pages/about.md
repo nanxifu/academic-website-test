@@ -20,6 +20,8 @@ Industrial Organization, Urban Economics, Consumer Demand, Retail Competition, a
 
 *Assortment Policy: How Far Can It Move Consumption?*
 
+*Would Consumers Do Grocery Shopping Differently with Better Vehicle Access?*
+
 ## Teaching
 
 I served as an instructor for ECO220: Introduction to Data Analysis at the University of Toronto in Summer 2025. I also serve as a teaching assistant for economics courses at various levels, including principles, intermediate-level micro, macro and metrics, and upper-year industrial organization course.
