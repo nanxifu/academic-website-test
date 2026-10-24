@@ -15,9 +15,9 @@ title_separator          : "-"
 name                     : &name "Nanxi Fu"
 description              : &description "Personal academic website of Nanxi Fu"
 
-url                      : "https://nanxifu.github.io"
-baseurl                  : "/academic-website-test"
-repository               : "nanxifu/academic-website-test"
+url: "https://nanxifu.github.io"
+baseurl: ""
+repository: "nanxifu/nanxifu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
