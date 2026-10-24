@@ -21,12 +21,13 @@ Industrial Organization, Urban Economics, Consumer Demand, Retail Competition, a
 *Assortment Policy: How Far Can It Move Consumption?* (Job Market Paper, Draft is Clearing with Data Provider)
 <details>
 <summary>Abstract</summary>
-
+  
 <p>
 This paper explores whether assortment-targeted policy, such as a mandate on fresh produce assortment requirements, can increase consumers' purchases of fresh produce, as the upcoming November 2026 SNAP updates on retailers' stocking requirements follow the same rationale. This paper develops a nested demand model incorporating how consumers choose across stores and divide expenditure across categories. Combining store-level assortment information and consumer purchase data on nine categories of food products, estimates of the model show that assortment can change how much consumers decide to spend in store within each category. However, assortment has limited impacts on categorical-level expenditure, given the estimated elasticities at the outer layer for all categories are almost unit elastic. The counterfactual shows a similar story: for a mandate targeted at increasing fresh produce assortment for low-stocking stores, it changes where consumers purchase their fresh produce but moves little in their total consumption of fresh produce. This suggests that future policy should target shifting preference at product category level.
 </p>
 
 </details>
+
 
 *Would Consumers Do Grocery Shopping Differently with Better Vehicle Access?* (Draft Available Upon Request)
 <details>
