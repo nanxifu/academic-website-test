@@ -24,6 +24,7 @@ Industrial Organization, Urban Economics, Consumer Demand, Retail Competition, a
 
 <p>
 This paper explores whether assortment-targeted policy, such as a mandate on fresh produce assortment requirements, can increase consumers' purchases of fresh produce, as the upcoming November 2026 SNAP updates on retailers' stocking requirements follow the same rationale. This paper develops a nested demand model incorporating how consumers choose across stores and divide expenditure across categories. Combining store-level assortment information and consumer purchase data on nine categories of food products, estimates of the model show that assortment can change how much consumers decide to spend in store within each category. However, assortment has limited impacts on categorical-level expenditure, given the estimated elasticities at the outer layer for all categories are almost unit elastic. The counterfactual shows a similar story: for a mandate targeted at increasing fresh produce assortment for low-stocking stores, it changes where consumers purchase their fresh produce but moves little in their total consumption of fresh produce. This suggests that future policy should target shifting preference at product category level.
+<p>
 
 </details>
 
@@ -33,6 +34,7 @@ This paper explores whether assortment-targeted policy, such as a mandate on fre
 
 <p>
 This paper explores how zipcode-level vehicle ownership can relate to consumers' grocery shopping demands in terms of the bundle purchased, frequency of shopping and size of bundles. For households living in regions with 0.1 more likely to have at least one vehicle access, households on average shop 2.1 percent fewer trips to form an average 1000-dollar bundle. This result suggests less frequent shopping and larger bundles in terms of quantity and variety for households that are more likely to have vehicles. This result can also be related to the patterns of these households are more likely to purchase more non-perishable products. The mechanism behind these characteristics can be related to the different quality of stores in terms of the number of varieties supplied around the households. There is no evidence in the data that consumers with better vehicle access can carry more products or search less to pay higher prices for the same products. The role of vehicles in consumers' grocery shopping can have important policy implications on the food desert issues.
+<p>
 
 </details>
 
