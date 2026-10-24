@@ -11,12 +11,6 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
-    url: /research/
-
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "CV"
     url: /files/Nanxi_Fu_CV.pdf
 
