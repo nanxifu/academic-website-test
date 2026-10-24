@@ -25,13 +25,11 @@ repository               : "nanxifu/academic-website-test"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Nanxi Fu (傅南希)"
+  bio              : "PhD Candidate in Economics"
+  location         : "Toronto, Canada"
+  university       : "University of Toronto"
+  email            : "nanxi.fu@mail.utoronto.ca" 
 
   # Academic websites
   academia         : # URL
