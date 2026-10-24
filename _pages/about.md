@@ -7,9 +7,38 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+I am a PhD candidate in Economics at the University of Toronto.
+
+My research interests lie in industrial organization, urban economics, and applied microeconomics. I study how the retail environment shapes consumer demand, shopping decisions, and access to healthy foods.
+
+My job market paper, *Assortment Policy: How Far Can It Move Consumption?*, examines how retailer stocking requirements affect consumer purchases and competition among grocery stores.
+
+My research combines detailed household purchase data, retailer scanner data, and structural demand models to evaluate the effects of retail and food policies.
+
+## Research Interests
+
+Industrial Organization, Urban Economics, Consumer Demand, Retail Competition, and Food Policy.
+
+## Research
+
+**Job Market Paper**
+
+*Assortment Policy: How Far Can It Move Consumption?*
+
+## Teaching
+
+I have served as an instructor for ECO220: Introduction to Data Analysis and as a teaching assistant for ECO380: Markets, Competition, and Strategy at the University of Toronto.
+
 
 A data-driven personal website
 ======
