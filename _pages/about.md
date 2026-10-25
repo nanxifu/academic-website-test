@@ -14,9 +14,9 @@ I am on the 2026-2027 job market.
 
 Industrial Organization, Urban Economics, Consumer Demand, Retail Competition, and Food Policy.
 
-## Research
+## Job Market Paper
 
-*Assortment Policy: How Far Can It Move Consumption?* (Job Market Paper, Draft is Clearing with Data Provider)
+*Assortment Policy: How Far Can It Move Consumption?* (Draft is Clearing with Data Provider)
 <details>
 <summary>Abstract</summary>
   
@@ -26,7 +26,7 @@ This paper explores whether assortment-targeted policy, such as a mandate on fre
 
 </details>
 
-
+## Work in Progress
 *Would Consumers Do Grocery Shopping Differently with Better Vehicle Access?* (Draft Available Upon Request)
 <details>
 <summary>Abstract</summary>
