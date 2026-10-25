@@ -4,7 +4,7 @@ title: "About Me"
 author_profile: true
 ---
 
-I am Nanxi Fu, a PhD candidate in Economics at the University of Toronto.
+I am Nanxi Fu (傅南希; pronounced Nánxī Fù, or roughly nahn-shee foo), a PhD candidate in Economics at the University of Toronto.
 
 My research examines how the retail environment and competition shape consumer demand and inequality. I combine detailed household purchase data, retailer scanner data, and structural demand models to study consumer behaviour and evaluate the effects of retail and food policies.
 
