@@ -10,7 +10,7 @@ My research examines how the retail environment and competition shape consumer d
 
 I am on the 2026-2027 job market.
 
-Outside of work, I enjoy playing the piano, badminton, and rock climbing. I also enjoy bringing people from different cultural backgrounds together and building international communities.
+Outside of work, I enjoy playing the piano, badminton, and rock climbing. I am also committed to bringing people from different cultural backgrounds together and building inclusive communities.
 
 ## Research Interests
 
