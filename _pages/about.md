@@ -18,7 +18,7 @@ Industrial Organization, Urban Economics, Consumer Demand, Retail Competition, a
 
 ## Job Market Paper
 
-*Assortment Policy: How Far Can It Move Consumption?* (Draft is Clearing with Data Provider)
+*Assortment Policy: How Far Can It Move Consumption?* (Draft Available Upon Request)
 <details>
 <summary>Abstract</summary>
   
